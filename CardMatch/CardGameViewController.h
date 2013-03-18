@@ -7,11 +7,9 @@
 //
 
 // -------------------------
-//
 // This is a branch
 // Local Name = SingleCard
 // Remote Name = singlecard
-//
 // -------------------------
 
 #import <UIKit/UIKit.h>
